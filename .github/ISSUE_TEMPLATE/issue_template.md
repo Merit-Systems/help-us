@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
-## Project Information
-<!-- Which Merit Systems project is this issue related to? -->
-- [ ] Merit Core
-- [ ] Merit API
-- [ ] Merit Web
-- [ ] Merit Mobile
-- [ ] Other (please specify): 
-
 ## Issue Type
 <!-- What type of issue is this? -->
 - [ ] Bug Report
